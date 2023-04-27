@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\bin\Debug\UchebVerstka.exe.config
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\bin\Debug\UchebVerstka.exe
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\bin\Debug\UchebVerstka.pdb
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\App.g.cs
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka_MarkupCompile.cache
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka_MarkupCompile.lref
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\App.baml
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.g.resources
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.Properties.Resources.resources
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.exe
+C:\Users\user\source\repos\UchebVerstka\UchebVerstka\obj\Debug\UchebVerstka.pdb
